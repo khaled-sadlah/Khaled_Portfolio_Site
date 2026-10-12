@@ -417,7 +417,7 @@ img {
 }
 
 .cert-img {
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .coming-soon {
